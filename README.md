@@ -22,6 +22,5 @@
 * 🎸 악기 연주
 
 
-
-
-[![http://mazassumnida.wtf/api/generate_badge?boj=tamiflus](http://mazassumnida.wtf/api/generate_badge)](https://solved.ac/tamiflus)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tamiflus)](https://solved.ac/tamiflus)
