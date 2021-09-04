@@ -20,6 +20,6 @@
 * 📷 사진 촬영
 * 🎸 악기 연주
 
-![Juwoongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=juungbae)
+![Juwoongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=juungbae&count_private=true)
 
 
