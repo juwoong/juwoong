@@ -11,14 +11,12 @@
 
 ### 🤔 배우고 있는 것들
 * ML / DL ( especially NLP )
-* Backend 전반.. 
+* Backend
+* Blockchains ⛓
 
 ### ☺️ 개발 외의 취미
-* 💪 운동 ( 🧗‍♂️ 클라이밍 / 🏊‍♂️ 수영 / 🏃‍♂️ 러닝)
+* 💪 운동 ( 🧗‍♂️ 클라이밍 / 🏊‍♂️ 수영 / 🏋️‍♀️ )
 * 📚 독서와 공부
 * 📷 사진 촬영
 * 🎸 악기 연주
-
-![Juwoongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=juungbae&count_private=true)
-
 
